@@ -42,6 +42,9 @@ The analysis was conducted using Excel, including Power Query for data cleaning,
 	•	Power Query
 	•	Pivot Tables
 	•	Dashboard Design
+	•    SQL
+	•    POWER BI
+	
 
 ⸻
 
